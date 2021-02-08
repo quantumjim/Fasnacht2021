@@ -1,4 +1,4 @@
-# Fasnacht2021
+# Fasnacht 2021
 
 It is February in Basel. The woods of Lange Erlen should be full of pipers, drummers and Guggenmusik bands practising for Fasnacht. But instead, they are silent.
 
@@ -15,6 +15,8 @@ Since I started borrowing elements from actual Fasnacht, rather than just the pr
 ![](images/nyanterns.png)
 
 The world was created in Minetest 5.3.0 and can be found in `fasnacht.zip`. Just unzip and put it in your worlds folder. Note that the nyancat mod is required.
+
+Also note that music is not included, but it is a very important part of the experience. So you'll need some on in the background. There is a bunch [here on YouTube](https://www.youtube.com/results?search_query=basler+fasnacht) for example.
 
 The woods were designed in 'fasnacht.png', and then turned by 'fasnacht.ipynb' into a specification for Minetest blocks in 'blocks.csv'. Using the [csv2terrain](https://github.com/quantumjim/csv2terrain) mod, this can then be turned into a Mintest world.
 

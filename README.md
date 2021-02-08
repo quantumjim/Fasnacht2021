@@ -14,7 +14,7 @@ Since I started borrowing elements from actual Fasnacht, rather than just the pr
 
 ![](images/nyanterns.png)
 
-The world was created in Minetest 5.3.0 and can be found in `fasnacht.zip`. Just unzip and put it in your worlds folder. Note that the nyancat mod is required.
+The world was created in Minetest 5.3.0 and can be found in `fasnacht.zip`. Just unzip and put it in your worlds folder. Note that the nyancat mod is required, and you'll need to use the chat command `/set time_speed 0` to disable the day/night cycle.
 
 Also note that music is not included, but it is a very important part of the experience. So you'll need some on in the background. There is a bunch [here on YouTube](https://www.youtube.com/results?search_query=basler+fasnacht) for example.
 
